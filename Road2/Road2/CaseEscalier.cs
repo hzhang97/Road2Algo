@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Road2
 {
-    public class CaseEscalier
+    public class CaseEscalier : Case
     {
-        public CaseEscalier()
+        public CaseEscalier(int lig, int col) : base(lig, col)
         {
+            this.Escalier = true;
         }
     }
 }
