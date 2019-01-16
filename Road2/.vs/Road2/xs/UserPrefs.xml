@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Road2/Program.cs">
+﻿<Properties StartupConfiguration="{43B95EFE-9839-48D7-801A-29E1E4D65486}|Default">
+  <MonoDevelop.Ide.ItemProperties.Modele FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modele/Case.cs">
     <Files>
-      <File FileName="Road2/Program.cs" Line="13" Column="1" />
+      <File FileName="Modele/Case.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Road2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Controle FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
