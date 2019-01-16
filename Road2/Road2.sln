@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road2", "Road2\Road2.csproj", "{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road2", "Road2\Road2.csproj", "{CEBFC8B4-B924-4AC6-A8CE-B76093589197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{419BFDCE-5507-46DC-A5D1-C4E7BCA51985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBFC8B4-B924-4AC6-A8CE-B76093589197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBFC8B4-B924-4AC6-A8CE-B76093589197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBFC8B4-B924-4AC6-A8CE-B76093589197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBFC8B4-B924-4AC6-A8CE-B76093589197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

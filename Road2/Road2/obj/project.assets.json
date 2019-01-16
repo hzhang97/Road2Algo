@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zhang/Road2/Road2/Road2.csproj",
+      "projectUniqueName": "/Users/zhang/Projects/Road2/Road2/Road2.csproj",
       "projectName": "Road2",
-      "projectPath": "/Users/zhang/Road2/Road2/Road2.csproj",
+      "projectPath": "/Users/zhang/Projects/Road2/Road2/Road2.csproj",
       "packagesPath": "/Users/zhang/.nuget/packages/",
-      "outputPath": "/Users/zhang/Road2/Road2/obj",
+      "outputPath": "/Users/zhang/Projects/Road2/Road2/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
