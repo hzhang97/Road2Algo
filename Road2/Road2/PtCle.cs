@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Road2
 {
-    public class PtCle
+    public class PtCle : Case
     {
-        public PtCle()
+        public PtCle(int lig, int col) : base(lig, col)
         {
+            this.PtCle = true;
         }
     }
 }
